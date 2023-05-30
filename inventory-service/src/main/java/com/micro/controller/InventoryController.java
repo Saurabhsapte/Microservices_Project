@@ -9,8 +9,6 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/api/inventory")
-//@RequiredArgsConstructor
-//@Slf4j
 public class InventoryController {
 
     @Autowired
